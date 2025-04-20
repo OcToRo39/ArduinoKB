@@ -9,6 +9,8 @@ A lot of Male to Male Wires, too dumb to count them
 Python installed on PC
 Arduino IDE
 
+for setting up the project irl, ive provided a picture of what it looks like for me, it might not help a lot but should give u the idea of what the project would look like
+
 Steps to Installation:
 1. Open the sketch provided in Arduino IDE
 2. Flash the sketch once u have setup the project IRL
